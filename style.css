@@ -10,7 +10,7 @@ h1{
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
-p{
+a{
     background: linear-gradient(to left, skyblue, white); 
     background-repeat: no-repeat;
     background-attachment: fixed;
